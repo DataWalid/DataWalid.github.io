@@ -1,8 +1,8 @@
 # Personel portfolio
 
 ### Education
-Master degree in accounting, control and audit
-Bachelor degree in bank and finance
+- Master degree in accounting, control and audit | ESAA
+- Bachelor degree in bank and finance | ESAA
 ### Work experience
 - Financial audit intern | Grant Thornton Algeria
 - Internal audit intern | Arab Gulf Bank
